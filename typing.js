@@ -145,8 +145,8 @@ document.getElementById('newGameBtn').addEventListener('click', () => {
   });
 
   const cursor = document.getElementById('cursor');
-  cursor.style.top = '198px'; 
-  cursor.style.left = '18px'; 
+  cursor.style.top = '193px'; 
+  cursor.style.left = '340px'; 
 
   
   newGame();
